@@ -8,6 +8,9 @@ The report is available in a pdf format and summarizes the findings of the analy
 ## Code
 The code used for the analysis is included in the `Project_Passing_Networks.ipynb` file. It is written in Python in a Jupyter Notebook and uses several libraries, including Pandas and Matplotlib. The code is well-commented to make it easy to understand and modify.
 
+## Slides
+In the following link there are available the slides prepared for the defense of the project in front of the tribunal: https://prezi.com/p/edit/qlzwavrxp3jt/
+
 ## Logos
 The `logos 200x200` folder contains various team logos that were used in the plots of the report. These images were sourced from LaLiga website and are free to use for non-commercial purposes.
 
